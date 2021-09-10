@@ -1,22 +1,22 @@
 # video_games
 Analysis of the game market to find the successful platform and possible reasons for being successful in the market.
-# Step 1. Open the data file and study the general information
+Step 1. Open the data file and study the general information
 
-# Step 2. Prepare the data.
+Step 2. Prepare the data.
 Convert the data to the required types.
 Dealing  with missing values
 
-# Step 3. Analyze the data
+Step 3. Analyze the data
 Sales varied from platform to platform
 Analyze of the platforms
 The other variables that affect the game markets
 
-# Step 4. Create a user profile for each region
+Step 4. Create a user profile for each region
 Analyze of top five platforms
 
-# Step 5. Test hypotheses:
+Step 5. Test hypotheses:
 
-# Step 6. Conclusion
+Step 6. Conclusion
 
 
 
