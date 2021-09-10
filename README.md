@@ -16,7 +16,7 @@ Analyze of top five platforms
 
 # Step 5. Test hypotheses:
 
-#Step 6. Conclusion
+# Step 6. Conclusion
 
 
 
